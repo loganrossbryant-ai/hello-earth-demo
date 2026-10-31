@@ -2,7 +2,9 @@
 
 A playable Godot classroom draft: boarding, launch, ship orientation, observation, and the route-log cliffhanger.
 
-[Play in your browser](https://loganrossbryant-ai.github.io/hello-earth-demo/far-horizon/) · [Download the single HTML](https://github.com/loganrossbryant-ai/hello-earth-demo/raw/refs/heads/main/far-horizon/index.html)
+[Download the single-file game (ZIP)](https://github.com/loganrossbryant-ai/hello-earth-demo/raw/refs/heads/main/far-horizon/Far-Horizon-Session-01.zip)
+
+Extract **Far-Horizon-Session-01.html** and open it in current Chrome or Edge. All game assets are embedded. GitHub Pages, Godot installation, and a local web server are not required by this package.
 
 ![Session 1 terminal, with four moving department representatives](preview.png)
 
@@ -14,4 +16,4 @@ The first terminal slice and complete Session 1 path were browser-tested. The de
 
 This is a first visual draft with prototype sprite animation. Silver Pines is the animation/lighting benchmark, not a claim of finished commercial AA quality. The six-area directory is provisional.
 
-If the play link is unavailable, enable **Settings → Pages → Deploy from a branch → main → /(root)** in this public repository. No paid GitHub plan is needed for a public repository.
+GitHub Pages is not enabled. The ZIP link above is a file download; it contains exactly one HTML file. Direct local-file opening could not be verified in the managed test browser because that browser blocks file URLs. The same embedded HTML passed its HTTP browser test.
