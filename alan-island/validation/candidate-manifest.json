@@ -2,13 +2,13 @@
   "files": [
     {
       "path": "Alan-Favorites-Island-Offline.zip",
-      "bytes": 25657485,
-      "sha256": "c59cc41adb85a1a8cc2170d78bfa511ac5eb0609c1c880e8f665dc54d715fecd"
+      "bytes": 43264953,
+      "sha256": "7c85fa515cecf0ad3b185195ae03c133a4d2c80e90816b9878dfff45dd2db3d9"
     },
     {
       "path": "OFFLINE-READ-ME.txt",
-      "bytes": 2159,
-      "sha256": "cd74ace214d4f0e0505b4d2d76b7b8b233163c7c146eb1a4d612223bb53e8551"
+      "bytes": 3211,
+      "sha256": "bc86bd1be9b5fa0034fe7991afd78d1e1fa097b03ba0b70eb7bb9e78194464ca"
     },
     {
       "path": "materials/Cafe-Classroom-Cards.html",
@@ -21,14 +21,24 @@
       "sha256": "ad5379ff715953f43f0d50700ef9e773584bc570d3c36c1cea7db22610ac7383"
     },
     {
+      "path": "materials/Festival-Classroom-Cards.html",
+      "bytes": 4969821,
+      "sha256": "ff8d7be2c8882efa94b31a997e75a8fb15bb7d21c0fd804beed5d1e88483a9bb"
+    },
+    {
+      "path": "materials/Festival-Classroom-Cards.pdf",
+      "bytes": 5661217,
+      "sha256": "9f6d691cd6a224a0cc257690136967a0416fb8fa1a4022c237e75036e531f074"
+    },
+    {
       "path": "web/Body.ttf",
       "bytes": 217360,
       "sha256": "e64e508b2aa2880f907e470c4550980ec4c0694d103a43f36150ac3f93189bee"
     },
     {
       "path": "web/Chinese.otf",
-      "bytes": 202404,
-      "sha256": "a0d61021e53ceeb5f343099ffa7556987fe7844c45cf58d9b24bfa3d2f348ff1"
+      "bytes": 221588,
+      "sha256": "5f18fb149f9b162392abd18443bc6b7ba941180c722a358e7424c5dc42a7a2dd"
     },
     {
       "path": "web/app-icon.png",
@@ -37,8 +47,8 @@
     },
     {
       "path": "web/asset-manifest.json",
-      "bytes": 3292,
-      "sha256": "312ee534a6aab438b9d7fa86dc974695d1ffa6a57d9b7985fc43c81dcb720f75"
+      "bytes": 3439,
+      "sha256": "12bec03d982465d5382b59ef8290fd9fd43a84c49a32319146bb430c8c8a49a4"
     },
     {
       "path": "web/cover.png",
@@ -47,8 +57,8 @@
     },
     {
       "path": "web/game.html",
-      "bytes": 5856,
-      "sha256": "60551a75617bcfe076d1d0db19649f641759ef74079242a97b2625c4be664f2f"
+      "bytes": 5857,
+      "sha256": "acb54a47f85fcb91d0215a5fe2398059e7ffb79982603ffa73bb3dc53a3d26a6"
     },
     {
       "path": "web/index.apple-touch-icon.png",
@@ -67,8 +77,8 @@
     },
     {
       "path": "web/index.html",
-      "bytes": 5579,
-      "sha256": "c194038eaebb3bbdf7427f0589608fee3cbac2e227eda7f10f846cd2b6cd8a73"
+      "bytes": 6736,
+      "sha256": "1f2faf4147c6452ee31e46ee33455a272e980f9a6b37aaceb0fa48bd42e21d13"
     },
     {
       "path": "web/index.icon.png",
@@ -82,8 +92,8 @@
     },
     {
       "path": "web/index.pck",
-      "bytes": 9925220,
-      "sha256": "40ff24c12ef739102c132dc6c27ab27b2c95b6e90a700002d2624a01743c2c8d"
+      "bytes": 19354236,
+      "sha256": "f67d83608069de14aed0851c8145137900f98f256ca211788c3a94ea1330917a"
     },
     {
       "path": "web/index.png",
@@ -127,8 +137,13 @@
     },
     {
       "path": "web/sw.js",
-      "bytes": 2102,
-      "sha256": "754b8485b408f76e33b5b3336c4789feaef3d558e4eac3a0d2a6dc113b3e0248"
+      "bytes": 3094,
+      "sha256": "b76671d618c33df1a4d0af7ec03e47643f21f9594f0d19974f010b3ef2f29e0d"
+    },
+    {
+      "path": "web/update.html",
+      "bytes": 6736,
+      "sha256": "1f2faf4147c6452ee31e46ee33455a272e980f9a6b37aaceb0fa48bd42e21d13"
     }
   ]
 }
