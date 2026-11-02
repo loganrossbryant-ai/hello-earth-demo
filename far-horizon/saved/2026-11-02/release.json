@@ -1,0 +1,18 @@
+{
+  "title": "The Far Horizon \u2014 Sessions 1\u20133 detail revision",
+  "url": "https://loganrossbryant-ai.github.io/hello-earth-demo/far-horizon/play.html",
+  "source_commit": "8625aaebcd18abdf4219795117029f9a54aed5f6",
+  "source_repository": "loganrossbryant-ai/EAL-Game",
+  "review_commit": "e50ca11419164ade12b1fa7e241e6b26713bb23c",
+  "defender_run": "41369106496",
+  "manifest_sha256": "6d4bf022029e395f8f569386dfea4d37ca9da734018dc7b8d75ad5be812320df",
+  "created_utc": "2026-11-02T01:05:20.558473+00:00",
+  "checks": {
+    "desktop_story_beats": 64,
+    "animated_room_profiles": 9,
+    "original_ppt_portrait_headers": 7,
+    "phone_portrait_landscape_touch_emulation": true,
+    "physical_iphone_safari_test": false
+  },
+  "npc_voice_pack": "deferred; text dialogue"
+}

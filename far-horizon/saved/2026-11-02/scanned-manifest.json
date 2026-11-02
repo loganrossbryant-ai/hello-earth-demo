@@ -1,0 +1,157 @@
+{
+  "status": "candidate-not-security-cleared",
+  "format": "standard-godot-web-export",
+  "engine": "Godot 4.6.3, non-threaded Web release",
+  "files": [
+    {
+      "path": "academic.otf",
+      "bytes": 53832,
+      "sha256": "d77166d61536c0e6e030232fa537fb06a63243607632cbf4b07ebe6f27911ee2"
+    },
+    {
+      "path": "campaign.json",
+      "bytes": 42563,
+      "sha256": "bb456ac97f65dc41cae5463fd379164bd0101dee483a39b37d299fb2fa11f04c"
+    },
+    {
+      "path": "gm.css",
+      "bytes": 4182,
+      "sha256": "e864f3b9c4f3cd3e280ce6a45e61b33f2279c5b026e8f09ec8e89742368d0658"
+    },
+    {
+      "path": "gm.html",
+      "bytes": 3810,
+      "sha256": "3b94c0c3c738d4ae3cf0068b800f6d69a50c541e28c3fc496cf4b5dacdb364e3"
+    },
+    {
+      "path": "gm.js",
+      "bytes": 5987,
+      "sha256": "6f748a7ec7ba3cc0c9375195bad320282d3f954ec06e5f9568e0cab128c92955"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "bytes": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5477,
+      "sha256": "17d8b76b22f4bc8f6e215c7e05de6943cf88120913cba6448ae7e978e79935ce"
+    },
+    {
+      "path": "index.js",
+      "bytes": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "bytes": 73242652,
+      "sha256": "9deeb70260175ef93de17ab77e6a46cecc4edeef69245174ee64fb9a9984a0e6"
+    },
+    {
+      "path": "index.png",
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.wasm",
+      "bytes": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    },
+    {
+      "path": "licenses/GODOT-LICENSE.txt",
+      "bytes": 1149,
+      "sha256": "b0435e3b3e4e55238f05f4b306f30524a1b2e20147810d436eaa554fa6855c80"
+    },
+    {
+      "path": "licenses/GODOT-THIRD-PARTY-NOTICES.txt",
+      "bytes": 99790,
+      "sha256": "b3330849267d56ddd3d62a513817506606c2195034411fe05859f0140bff9d8a"
+    },
+    {
+      "path": "licenses/LICENSE-DejaVu.txt",
+      "bytes": 3859,
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9"
+    },
+    {
+      "path": "licenses/LICENSE-MakeHuman-CC0.txt",
+      "bytes": 6962,
+      "sha256": "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c"
+    },
+    {
+      "path": "licenses/LICENSE-NotoCJK.txt",
+      "bytes": 14712,
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    },
+    {
+      "path": "licenses/LICENSE-OpenSans.txt",
+      "bytes": 1031,
+      "sha256": "94d4b78643f99d7cfa872145b38da578299f401405ca5cba66a5c95bf13933b0"
+    },
+    {
+      "path": "play.css",
+      "bytes": 6023,
+      "sha256": "ebd1774405283505051ec81084de2b3295f78fb0e9c0cb8d81c2fc690cc6b253"
+    },
+    {
+      "path": "play.html",
+      "bytes": 2386,
+      "sha256": "68f60d86a0d3a592fd03f85dedb84924d6d2b46173ea7b25ee8b47e99b003dcc"
+    },
+    {
+      "path": "play.js",
+      "bytes": 8193,
+      "sha256": "edf10b69c22187f49d2f23f2a441a1a7ba18fa912f144d4bd7985812731a7eef"
+    },
+    {
+      "path": "portraits/iris.jpg",
+      "bytes": 31259,
+      "sha256": "0c782a1fa4aa351f22090c9700c75dff54804aa4e8f78ad11adf034bdac36890"
+    },
+    {
+      "path": "portraits/juno.jpg",
+      "bytes": 31902,
+      "sha256": "cb2e97672b4ddb4856e2a4d188161e467eb2c707e9b0356f90e9353c4263cc8a"
+    },
+    {
+      "path": "portraits/m77.jpg",
+      "bytes": 89418,
+      "sha256": "2d5dc3673805effd06d2f84366ca460adaea2f710fcc74f62852fbc623716395"
+    },
+    {
+      "path": "portraits/okafor.jpg",
+      "bytes": 14891,
+      "sha256": "7fe545e64688d9d6636903e2fdb89f479ef5cf397ebcf6fe89b4268a460553ca"
+    },
+    {
+      "path": "portraits/rhee.jpg",
+      "bytes": 16591,
+      "sha256": "5713adee600a3b99328dcbd18c2a399f5d890db321a8653d616e93841405a3dd"
+    },
+    {
+      "path": "portraits/vale.jpg",
+      "bytes": 15630,
+      "sha256": "a1113d98c3818e543dab93548b378c549f64b7a11e6d0a11a4d5bc96cd6cd741"
+    },
+    {
+      "path": "portraits/venn.jpg",
+      "bytes": 29702,
+      "sha256": "dbf145506cbfe3a2df8a3829be36d4eb4b74e2b400ae6170f8ebc7c8004e8350"
+    },
+    {
+      "path": "portraits.json",
+      "bytes": 1193,
+      "sha256": "402d49885663a97a2c40a5706684d78c544f8f5ca1fe87844746b414df65b5b3"
+    },
+    {
+      "path": "poster.png",
+      "bytes": 2635081,
+      "sha256": "669d11391ea85cabbcf4d02ebf1c2f700a642167021c24408eb49c0fc9fd9a49"
+    }
+  ]
+}
