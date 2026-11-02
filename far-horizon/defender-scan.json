@@ -1,10 +1,10 @@
 {
   "status": "scan_passed",
-  "source_commit": "a4fdcc3cb468f6a254d1cca0b63c4f77b4dda5e8",
-  "run_id": "41322320949",
+  "source_commit": "e50ca11419164ade12b1fa7e241e6b26713bb23c",
+  "run_id": "41369106496",
   "run_attempt": "1",
-  "started_utc": "2026-11-01T15:39:37.8982739Z",
-  "completed_utc": "2026-11-01T15:40:28.0641945Z",
+  "started_utc": "2026-11-02T00:48:31.4785105Z",
+  "completed_utc": "2026-11-02T00:49:15.2183325Z",
   "files_verified_before_scan": true,
   "files_verified_after_scan": true,
   "defender": {
@@ -14,8 +14,8 @@
     "RealTimeProtectionEnabled": true,
     "AMEngineVersion": "1.1.26100.4",
     "AMProductVersion": "4.18.26090.9",
-    "AntivirusSignatureVersion": "1.463.73.0",
-    "AntivirusSignatureLastUpdated": "/Date(1793512783000)/"
+    "AntivirusSignatureVersion": "1.463.80.0",
+    "AntivirusSignatureLastUpdated": "/Date(1793549844000)/"
   },
   "preferences": {
     "DisableArchiveScanning": false,
@@ -33,6 +33,6 @@
   "error": null,
   "automatic_sample_submission": "disabled; no file uploads for sample analysis",
   "limitation": "A clean scan is evidence, not a guarantee of absence of malware.",
-  "manifest_sha256": "2f484806730de72363d1b11c01bfbdd0e71709a7b1dce430935d0641442cdc56",
+  "manifest_sha256": "6d4bf022029e395f8f569386dfea4d37ca9da734018dc7b8d75ad5be812320df",
   "scan_output": "Scan starting...\r\nScan finished.\r\nScanning D:\\a\\EAL-Game\\EAL-Game\\review-candidate\\far-horizon found no threats.\r\n"
 }

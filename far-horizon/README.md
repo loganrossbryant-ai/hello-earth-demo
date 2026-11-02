@@ -1,7 +1,19 @@
-# Far Horizon: Sessions 1-3 draft
+# Far Horizon: Sessions 1–3 detail draft
 
-Open play.html in a browser. On iPhone use current Safari in landscape; Read opens larger story and clue text, and Scenes opens the scene picker. PC supports keyboard movement and the GM desk.
+Open play.html. PC supports keyboard movement and the GM desk. On iPhone use
+current Safari in landscape; Read opens larger story, dialogue and clue text,
+and Scenes opens the scene picker.
 
-Exact candidate files passed active Windows Defender, run 41322320949, with no detections and matching hashes. The manifest describes the scan input; defender-scan.json records the completed review. No scan guarantees absence of all malware. The earlier packed HTML/ZIP remains withdrawn.
+Distinct room designs, tailored 3D crew, location-specific articulated machines
+and original PPT portraits replace the previous uniform gallery presentation.
+All 18 scenes, 64 manual beats and 13 clues remain in the GM-only first three
+sessions. NPC voices remain deferred.
 
-The PC/iPhone preview was tested in Chromium, including iPhone-size touch emulation. A physical iPhone or Safari-engine run was not tested. NPC voices are deferred. This is a playable draft, not commercial AA production quality.
+The exact 30 candidate files passed active Windows Defender, run 41369106496,
+with matching hashes before/after and no detections. The manifest and actual
+report are included. No scan guarantees absence of every threat. The old packed
+HTML/ZIP remains withdrawn.
+
+Chromium checks cover PC controls, 64 story beats, nine animated room profiles,
+seven portrait headers and phone-size touch/orientation. A physical iPhone or
+Safari-engine run was not tested. This is a playable custom draft.

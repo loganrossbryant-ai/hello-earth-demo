@@ -1,14 +1,16 @@
 {
-  "title": "The Far Horizon \u2014 Sessions 1\u20133 PC/iPhone draft",
+  "title": "The Far Horizon \u2014 Sessions 1\u20133 detail revision",
   "url": "https://loganrossbryant-ai.github.io/hello-earth-demo/far-horizon/play.html",
-  "source_commit": "ab749b7600c50f7bcdc335f55058e5e4dc2a5f4f",
+  "source_commit": "8625aaebcd18abdf4219795117029f9a54aed5f6",
   "source_repository": "loganrossbryant-ai/EAL-Game",
-  "review_commit": "a4fdcc3cb468f6a254d1cca0b63c4f77b4dda5e8",
-  "defender_run": "41322320949",
-  "manifest_sha256": "2f484806730de72363d1b11c01bfbdd0e71709a7b1dce430935d0641442cdc56",
-  "created_utc": "2026-11-01T15:53:57.577073+00:00",
+  "review_commit": "e50ca11419164ade12b1fa7e241e6b26713bb23c",
+  "defender_run": "41369106496",
+  "manifest_sha256": "6d4bf022029e395f8f569386dfea4d37ca9da734018dc7b8d75ad5be812320df",
+  "created_utc": "2026-11-02T01:05:20.558473+00:00",
   "checks": {
     "desktop_story_beats": 64,
+    "animated_room_profiles": 9,
+    "original_ppt_portrait_headers": 7,
     "phone_portrait_landscape_touch_emulation": true,
     "physical_iphone_safari_test": false
   },
