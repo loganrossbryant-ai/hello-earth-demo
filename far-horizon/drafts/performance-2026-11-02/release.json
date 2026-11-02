@@ -1,0 +1,22 @@
+{
+  "title": "The Far Horizon \u2014 classroom TV and textured-cast draft",
+  "url": "https://loganrossbryant-ai.github.io/hello-earth-demo/far-horizon/drafts/performance-2026-11-02/play.html",
+  "source_repository": "loganrossbryant-ai/EAL-Game",
+  "source_commit": "d23d54a6cad707cf69e3b2f47cdec13245f7d03b",
+  "review_commit": "cfdb9dbcbcfd9d353e774525bb293f8dc92b13ce",
+  "defender_run": "41386794559",
+  "manifest_sha256": "e68bed64c38892830559d08079b0e556a6181cbafd45ec432e74e02880f6992b",
+  "created_utc": "2026-11-02T04:28:31.992064+00:00",
+  "saved_classroom_version": "https://loganrossbryant-ai.github.io/hello-earth-demo/far-horizon/saved/2026-11-02/play.html",
+  "checks": {
+    "story_beats": 64,
+    "scene_audit": 18,
+    "large_clue_cards": 13,
+    "half_screen_original_portraits": 7,
+    "textured_cast": 9,
+    "surface_count_per_human": 2,
+    "phone_touch_emulation": true,
+    "physical_iphone_safari_test": false
+  },
+  "npc_voice_pack": "deferred; text dialogue"
+}
