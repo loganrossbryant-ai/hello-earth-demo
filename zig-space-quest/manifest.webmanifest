@@ -1,0 +1,21 @@
+{
+  "name": "Zig & the Lost Star Map — Allen's English Adventure",
+  "short_name": "Zig Space Quest",
+  "description": "Offline English adventure for Allen, with Jesse voice, pictures, and 16 minigames.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#09142d",
+  "theme_color": "#10295d",
+  "orientation": "any",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
