@@ -1,0 +1,19 @@
+ZIG & THE LOST STAR MAP — iPHONE OFFLINE APP
+
+After publishing, copy this game address into WeChat:
+https://loganrossbryant-ai.github.io/hello-earth-demo/zig-space-quest/
+
+Instructions for Allen’s mom / 给艾伦妈妈的说明：
+1. 第一次需要联网。点开链接后，请点击右上角「···」，选择“在 Safari 中打开”。
+2. 在 Safari 中，点分享图标，然后选择「添加到主屏幕」(Add to Home Screen)。
+3. 从主屏幕打开 Zig 游戏图标，保持网络连接，等待游戏加载完成。
+4. 游戏正常打开后可打开飞行模式测试。之后无需联网也可以玩（除非清除浏览器数据或删除游戏）。
+
+English:
+1. First open the link online; from WeChat choose Open in Safari/browser.
+2. In Safari: Share > Add to Home Screen > Add.
+3. Launch the icon once while online and allow the full game to load.
+4. Turn on Airplane Mode, relaunch the icon and test Listen and a minigame.
+
+The web address is public. It contains no student personal information, login or tracking. Game progress stays in that phone's local browser storage.
+If the link does not load in China, try another network (or ask the tutor for a different host). GitHub Pages availability in China is not guaranteed.
